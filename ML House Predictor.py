@@ -30,7 +30,7 @@ from joblib import dump,load
 
 
 housing = pd.read_csv("house_project_data.csv")
-# housing = housing.iloc[:, :-4]
+# housing = housing.iloc[:, :-4]/ Coloumns
 
 
 # In[3]:
