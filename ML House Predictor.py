@@ -26,7 +26,7 @@ from sklearn.model_selection import cross_val_score
 from joblib import dump,load
 
 
-# In[2]:
+# nIn[2]:
 
 
 housing = pd.read_csv("house_project_data.csv")
